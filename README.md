@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<# Hi, I'm Radhika Kitturkar 👋
+# Hi, I'm Radhika Kitturkar 👋
 
 M.S. in Quantitative Finance at Northeastern University (Dec 2026). I build and audit financial models, and I'm moving into **machine learning and automation for finance**.
 
@@ -21,6 +20,4 @@ Python (pandas, NumPy, SciPy, statsmodels) · SQL · R · Excel/VBA · Power BI 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · YOUR-EMAIL!kirankitturkar.r@northeastern.edu
-**kirankitturkar-radhika/kirankitturkar-radhika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+kirankitturkar.r@northeastern.edu
